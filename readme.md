@@ -41,6 +41,7 @@ Are you a Hackbright alumna or student?
 - [requests](http://docs.python-requests.org/en/master/) &mdash; HTTP requests
 - [Faker](https://faker.readthedocs.io/en/stable/) &mdash; Generate fake data
 
+
 # ✨ JavaScript
 
 ## Utilities
@@ -58,6 +59,9 @@ Are you a Hackbright alumna or student?
 ## Animations &amp; Interactivity
 - [ScrollMagic](http://scrollmagic.io/) &mdash; Scroll animations/interactions
 - [SVG.js](https://svgjs.com/docs/2.7/) &mdash; SVG manipulation
+
+## Data Visualization
+- [d3](https://d3js.org/) &mdash; JavaScript library for manipulating documents based on data
 
 # 🍴 Tools &amp; Software
 
