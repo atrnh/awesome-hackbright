@@ -42,7 +42,7 @@ Are you a Hackbright alumna or student?
 - [Faker](https://faker.readthedocs.io/en/stable/) &mdash; Generate fake data
 
 ## Machine Learning 
-- [scikit-learn](https://scikit-learn.org/stable/) &mdash;  a free software machine learning library for the Python programming language
+- [scikit-learn](https://scikit-learn.org/stable/) &mdash;  A free software machine learning library for the Python programming language
 
 
 
