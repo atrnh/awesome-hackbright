@@ -3,7 +3,8 @@
 A list of libraries, tools, and other resources that Hackbrighters have used in
 their projects.
 
-Are you a Hackbright alumna or student? Add your recommendations to this list!
+Are you a Hackbright alumna or student?
+[Contribute to this repo and add your recommendations to!](https://github.com/atrnh/awesome-hackbright/wiki)
 
 ## Contents
 - [Python](#-python)
