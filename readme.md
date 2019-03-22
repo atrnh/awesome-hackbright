@@ -28,14 +28,14 @@ Are you a Hackbright alumna or student?
   - [Jinja](http://jinja.pocoo.org/) &mdash; Flask's templating engine
   - [Flask-DebugToolbar](http://github.com/mgood/flask-debugtoolbar/) &mdash; A port of
     Django's debug toolbar for Flask
-    
+
 ## Database
 - [SQLAlchemy](https://www.sqlalchemy.org/) &mdash; Vendor-agnostic database toolkit
 
 ## Clients &amp; API Wrappers
 - [Google Maps Python Client](https://github.com/googlemaps/google-maps-services-python)
   &mdash; Python client library for Google Maps API Web Services
-  
+
 ## Utilities
 - [requests](http://docs.python-requests.org/en/master/) &mdash; HTTP requests
 - [Faker](https://faker.readthedocs.io/en/stable/) &mdash; Generate fake data
@@ -46,6 +46,7 @@ Are you a Hackbright alumna or student?
 - [jQuery](https://jquery.com/) &mdash; JS Library for DOM manipulation & AJAX
 - [lodash](https://lodash.com/) &mdash; Handy utilities to augment JS
 - [moment](https://momentjs.com/) &mdash; Datetime formatting/parsing
+- [schedule](https://pypi.org/project/schedule/) &mdash; Python job scheduling to run functions periodically.
 
 ## Frontend Frameworks
 - [React](https://reactjs.org/) &mdash; Framework for interactive UIs
@@ -65,6 +66,9 @@ Are you a Hackbright alumna or student?
   - [Babel](https://packagecontrol.io/packages/Babel) &mdash; Syntax definitions for JSX and modern JS
 - [Brackets](http://brackets.io/) &mdash; Text editor aimed toward web design
 - [Neovim](https://neovim.io/) &mdash; Vim, but it uses Python as its scripting language
+- [Atom](https://atom.io/) &mdash; Free text editor, very customizable.
+
+
 
 ## Command Line
 - [jrnl](http://jrnl.sh/) &mdash; Write journal entries from your command line
