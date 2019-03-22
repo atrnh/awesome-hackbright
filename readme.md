@@ -72,3 +72,5 @@ Are you a Hackbright alumna or student?
 
 # 🍎 Resources
 - [Idiomatic Python 3](https://github.com/jerry-git/learn-python3#idiomatic-python)
+
+# Just testing! 
