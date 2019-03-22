@@ -37,6 +37,7 @@ Are you a Hackbright alumna or student? Add your recommendations to this list!
   
 ## Utilities
 - [requests](http://docs.python-requests.org/en/master/) &mdash; HTTP requests
+- [Faker](https://faker.readthedocs.io/en/stable/) &mdash; Generate fake data
 
 # ✨ JavaScript
 
