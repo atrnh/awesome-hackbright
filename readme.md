@@ -66,6 +66,7 @@ Are you a Hackbright alumna or student?
   - [Babel](https://packagecontrol.io/packages/Babel) &mdash; Syntax definitions for JSX and modern JS
 - [Brackets](http://brackets.io/) &mdash; Text editor aimed toward web design
 - [Neovim](https://neovim.io/) &mdash; Vim, but it uses Python as its scripting language
+-[Atom](https://atom.io/) &mdash; A free and open-source text and source code editor
 
 ## Command Line
 - [jrnl](http://jrnl.sh/) &mdash; Write journal entries from your command line
