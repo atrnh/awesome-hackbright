@@ -35,6 +35,7 @@ Are you a Hackbright alumna or student?
 ## Clients &amp; API Wrappers
 - [Google Maps Python Client](https://github.com/googlemaps/google-maps-services-python)
   &mdash; Python client library for Google Maps API Web Services
+- [Twilio](https://www.twilio.com/docs/libraries/python) &mdash; Twilio Python Helper Library 
   
 ## Utilities
 - [requests](http://docs.python-requests.org/en/master/) &mdash; HTTP requests
