@@ -58,7 +58,7 @@ Are you a Hackbright alumna or student?
 ## Animations &amp; Interactivity
 - [ScrollMagic](http://scrollmagic.io/) &mdash; Scroll animations/interactions
 - [SVG.js](https://svgjs.com/docs/2.7/) &mdash; SVG manipulation
-- [svgo](https://https://github.com/svg/svgo) &mdash; Node.js tool for optimizing SVG files
+- [svgo](https://github.com/svg/svgo) &mdash; Node.js tool for optimizing SVG files
 # 🍴 Tools &amp; Software
 
 ## Text Editors
