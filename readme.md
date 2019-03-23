@@ -44,8 +44,6 @@ Are you a Hackbright alumna or student?
 ## Machine Learning 
 - [scikit-learn](https://scikit-learn.org/stable/) &mdash;  A free software machine learning library for the Python programming language
 
-
-
 # ✨ JavaScript
 
 ## Utilities
