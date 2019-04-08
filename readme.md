@@ -21,6 +21,7 @@ Are you a Hackbright alumna or student?
 - [Tools &amp; Software](#-tools--software)
   - [Text Editors](#text-editors)
   - [Command Line](#command-line)
+  - [Terminals](#terminals)
 - [Resources](#-resources)
 
 # 🐍 Python
@@ -50,6 +51,7 @@ Are you a Hackbright alumna or student?
 - [Faker](https://faker.readthedocs.io/en/stable/) &mdash; Generate fake data
 
 ## Machine Learning 
+
 - [scikit-learn](https://scikit-learn.org/stable/) &mdash;  A free software machine learning library for the Python programming language
 
 # ✨ JavaScript
@@ -91,6 +93,14 @@ Are you a Hackbright alumna or student?
 
 - [jrnl](http://jrnl.sh/) &mdash; Write journal entries from your command line
 - [httpie](https://httpie.org/) &mdash; Like `curl` or `wget`, but better and more colorful
+- [peco](https://github.com/peco/peco) &mdash; Interactive filtering/searching
+- [the silver searcher](https://github.com/ggreer/the_silver_searcher) &mdash; Like `grep` or `ack` but faster/more performant
+- [z](https://github.com/rupa/z) &mdash; Shortcuts for fast and easy `cd`-ing
+
+## Terminals
+
+- [hyper.js](https://hyper.is/) &mdash; A JS-based terminal emulator
+- [kitty](https://github.com/kovidgoyal/kitty) &mdash; Fast, GPU-based terminal emulator
 
 # 🍎 Resources
 
