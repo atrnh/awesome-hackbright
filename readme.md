@@ -13,6 +13,7 @@ Are you a Hackbright alumna or student?
   - [Database](#database)
   - [Clients &amp; API Wrappers](#clients--api-wrappers)
   - [Utilities](#utilities)
+  - [Machine Learning](#machine-learning)
 - [JavaScript](#-javascript)
   - [Utilities](#utilities-1)
   - [Frontend Frameworks](#frontend-frameworks)
