@@ -36,6 +36,8 @@ Are you a Hackbright alumna or student?
 - [Google Maps Python Client](https://github.com/googlemaps/google-maps-services-python)
   &mdash; Python client library for Google Maps API Web Services
 - [Twilio](https://www.twilio.com/docs/libraries/python) &mdash; Twilio Python Helper Library 
+- [Eventbrite API](https://www.eventbrite.com/platform/api)
+&mdash; REST-based API
   
 ## Utilities
 - [requests](http://docs.python-requests.org/en/master/) &mdash; HTTP requests
