@@ -23,6 +23,8 @@ Are you a Hackbright alumna or student?
   - [Command Line](#command-line)
   - [Terminals](#terminals)
 - [Resources](#-resources)
+  - [Educational](#educational)
+  - [Awesome Lists](#awesome-lists)
 
 # 🐍 Python
 
@@ -104,4 +106,10 @@ Are you a Hackbright alumna or student?
 
 # 🍎 Resources
 
+## Educational
+
 - [Idiomatic Python 3](https://github.com/jerry-git/learn-python3#idiomatic-python)
+
+## Awesome Lists
+
+- [Awesome Python](https://github.com/vinta/awesome-python)
