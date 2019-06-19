@@ -38,6 +38,8 @@ Are you a Hackbright alumna or student?
 ## Database
 
 - [SQLAlchemy](https://www.sqlalchemy.org/) &mdash; Vendor-agnostic database toolkit
+- [GeoAlchemy](https://geoalchemy-2.readthedocs.io/en/latest/)&mdash; Adds extensions to 
+SQLAlchemy to work with spatial databases
 
 ## Clients &amp; API Wrappers
 
