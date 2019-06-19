@@ -56,6 +56,10 @@ Are you a Hackbright alumna or student?
 
 - [scikit-learn](https://scikit-learn.org/stable/) &mdash;  A free software machine learning library for the Python programming language
 
+## Graphs
+
+- [osmnx](https://osmnx.readthedocs.io/en/stable/) &mdash; retrieve, model, analyze, and visualize street networks from OpenStreetMap. 
+
 # ✨ JavaScript
 
 ## Utilities
