@@ -88,6 +88,7 @@ SQLAlchemy to work with spatial databases
 
 ## Data Visualization
 - [d3](https://d3js.org/) &mdash; JavaScript library for manipulating documents based on data
+-[Chart.js](https://www.chartjs.org/docs/latest/) &mdash; Simple yet flexible JavaScript charting for designers & developers
 
 # 🍴 Tools &amp; Software
 
