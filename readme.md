@@ -40,23 +40,29 @@ Are you a Hackbright alumna or student?
 - [SQLAlchemy](https://www.sqlalchemy.org/) &mdash; Vendor-agnostic database toolkit
 - [GeoAlchemy](https://geoalchemy-2.readthedocs.io/en/latest/)&mdash; Adds extensions to 
 SQLAlchemy to work with spatial databases
+- [PostGIS](https://postgis.net/) &mdash; A spatial database extender for PostgreSQL 
 
 ## Clients &amp; API Wrappers
 
 - [Google Maps Python Client](https://github.com/googlemaps/google-maps-services-python)
   &mdash; Python client library for Google Maps API Web Services
-- [Twilio](https://www.twilio.com/docs/libraries/python) &mdash; Twilio Python Helper Library 
+- [Twilio](https://www.twilio.com/docs/libraries/python) &mdash; Twilio Python Helper Library
 - [Eventbrite API](https://www.eventbrite.com/platform/api)
 &mdash; REST-based API
-  
+
 ## Utilities
 
 - [requests](http://docs.python-requests.org/en/master/) &mdash; HTTP requests
 - [Faker](https://faker.readthedocs.io/en/stable/) &mdash; Generate fake data
+- [JSON Parser](https://app.quicktype.io/#l=Python) &mdash; Parse JSON data in any of a number of languages
 
-## Machine Learning 
+## Machine Learning
 
 - [scikit-learn](https://scikit-learn.org/stable/) &mdash;  A free software machine learning library for the Python programming language
+
+## Graphs
+
+- [osmnx](https://osmnx.readthedocs.io/en/stable/) &mdash; retrieve, model, analyze, and visualize street networks from OpenStreetMap. 
 
 # ✨ JavaScript
 
@@ -65,6 +71,7 @@ SQLAlchemy to work with spatial databases
 - [jQuery](https://jquery.com/) &mdash; JS Library for DOM manipulation & AJAX
 - [lodash](https://lodash.com/) &mdash; Handy utilities to augment JS
 - [moment](https://momentjs.com/) &mdash; Datetime formatting/parsing
+- [schedule](https://pypi.org/project/schedule/) &mdash; Python library for scheduling functions/jobs periodically
 
 ## Frontend Frameworks
 
@@ -105,6 +112,10 @@ SQLAlchemy to work with spatial databases
 
 - [hyper.js](https://hyper.is/) &mdash; A JS-based terminal emulator
 - [kitty](https://github.com/kovidgoyal/kitty) &mdash; Fast, GPU-based terminal emulator
+
+## Deployment
+
+- [AWS Lightsail](https://lightsail.aws.amazon.com) &mdash; A web deployment service
 
 # 🍎 Resources
 
