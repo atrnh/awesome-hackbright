@@ -88,6 +88,8 @@ SQLAlchemy to work with spatial databases
 
 ## Data Visualization
 - [d3](https://d3js.org/) &mdash; JavaScript library for manipulating documents based on data
+- [Observable](https://observablehq.com/) &mdash; Like Jupyter notebook but by
+  the creator of d3
 
 # 🍴 Tools &amp; Software
 
