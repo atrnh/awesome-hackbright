@@ -129,3 +129,6 @@ SQLAlchemy to work with spatial databases
 ## Awesome Lists
 
 - [Awesome Python](https://github.com/vinta/awesome-python)
+
+## Awesome Creative
+-[Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding)
