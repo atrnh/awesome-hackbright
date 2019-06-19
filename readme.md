@@ -97,7 +97,7 @@ SQLAlchemy to work with spatial databases
 - [Sublime Text](https://www.sublimetext.com/)
   - [Babel](https://packagecontrol.io/packages/Babel) &mdash; Syntax definitions for JSX and modern JS
 - [Brackets](http://brackets.io/) &mdash; Text editor aimed toward web design
-- [Neovim](https://neovim.io/) &mdash; Vim, but it uses Python as its scripting language
+- [Neovim](https://neovim.io/) &mdash; Vim, but it uses Python as its scripting language..
 - [Visual Studio Code](https://code.visualstudio.com/) &mdash; code editor redefined and optimized for building and debugging modern web and cloud applications
 - [Atom](https://atom.io/) &mdash; A free and open-source text and source code editor
 
