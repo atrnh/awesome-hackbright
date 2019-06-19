@@ -109,6 +109,7 @@ Are you a Hackbright alumna or student?
 ## Educational
 
 - [Idiomatic Python 3](https://github.com/jerry-git/learn-python3#idiomatic-python)
+- [Javascript to Jquery Dictionary](https://github.com/taniarascia/jquery)
 
 ## Awesome Lists
 
