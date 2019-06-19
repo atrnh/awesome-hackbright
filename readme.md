@@ -120,6 +120,8 @@ SQLAlchemy to work with spatial databases
 
 # 🍎 Resources
 
+- [Flask tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) &mdash; A detailed tutorial showing how to make a social media app in flask.
+
 ## Educational
 
 - [Idiomatic Python 3](https://github.com/jerry-git/learn-python3#idiomatic-python)
