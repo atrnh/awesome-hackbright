@@ -2,6 +2,9 @@
 
 - **Section modified:** *(which section did you add your change to? e.g. Python,
   JavaScript, Tools, etc.)*
+
+  Database
+  
 - **Graduating class:** *(optional)*
 
 #### Why

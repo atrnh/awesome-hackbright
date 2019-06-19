@@ -38,6 +38,7 @@ Are you a Hackbright alumna or student?
 ## Database
 
 - [SQLAlchemy](https://www.sqlalchemy.org/) &mdash; Vendor-agnostic database toolkit
+- [Pandas](https://pandas.pydata.org/) &mdash; Open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for Python
 
 ## Clients &amp; API Wrappers
 
