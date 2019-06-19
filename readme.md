@@ -109,6 +109,10 @@ Are you a Hackbright alumna or student?
 - [hyper.js](https://hyper.is/) &mdash; A JS-based terminal emulator
 - [kitty](https://github.com/kovidgoyal/kitty) &mdash; Fast, GPU-based terminal emulator
 
+## Deployment
+
+- [AWS Lightsail](https://lightsail.aws.amazon.com) &mdash; A web deployment service
+
 # 🍎 Resources
 
 ## Educational
