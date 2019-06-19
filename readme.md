@@ -111,7 +111,6 @@ Are you a Hackbright alumna or student?
 - [Idiomatic Python 3](https://github.com/jerry-git/learn-python3#idiomatic-python)
 - [Problem Solving with Algorithms and Data Structures using Python](https://interactivepython.org/runestone/static/pythonds/index.html)
 
-
 ## Awesome Lists
 
 - [Awesome Python](https://github.com/vinta/awesome-python)
