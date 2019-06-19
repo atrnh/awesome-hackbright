@@ -123,6 +123,7 @@ SQLAlchemy to work with spatial databases
 ## Educational
 
 - [Idiomatic Python 3](https://github.com/jerry-git/learn-python3#idiomatic-python)
+- [Javascript to Jquery Dictionary](https://github.com/taniarascia/jquery)
 - [Problem Solving with Algorithms and Data Structures using Python](https://interactivepython.org/runestone/static/pythonds/index.html)
 
 ## Awesome Lists
