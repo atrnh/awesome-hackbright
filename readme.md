@@ -43,16 +43,16 @@ Are you a Hackbright alumna or student?
 
 - [Google Maps Python Client](https://github.com/googlemaps/google-maps-services-python)
   &mdash; Python client library for Google Maps API Web Services
-- [Twilio](https://www.twilio.com/docs/libraries/python) &mdash; Twilio Python Helper Library 
+- [Twilio](https://www.twilio.com/docs/libraries/python) &mdash; Twilio Python Helper Library
 - [Eventbrite API](https://www.eventbrite.com/platform/api)
 &mdash; REST-based API
-  
+
 ## Utilities
 
 - [requests](http://docs.python-requests.org/en/master/) &mdash; HTTP requests
 - [Faker](https://faker.readthedocs.io/en/stable/) &mdash; Generate fake data
 
-## Machine Learning 
+## Machine Learning
 
 - [scikit-learn](https://scikit-learn.org/stable/) &mdash;  A free software machine learning library for the Python programming language
 
@@ -79,6 +79,8 @@ Are you a Hackbright alumna or student?
 
 ## Data Visualization
 - [d3](https://d3js.org/) &mdash; JavaScript library for manipulating documents based on data
+- [Observable](https://observablehq.com/) &mdash; Like Jupyter notebook but by
+  the creator of d3
 
 # 🍴 Tools &amp; Software
 
