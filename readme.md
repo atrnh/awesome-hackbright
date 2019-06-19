@@ -51,6 +51,7 @@ Are you a Hackbright alumna or student?
 
 - [requests](http://docs.python-requests.org/en/master/) &mdash; HTTP requests
 - [Faker](https://faker.readthedocs.io/en/stable/) &mdash; Generate fake data
+- [JSON Parser](https://app.quicktype.io/#l=Python) &mdash; Parse JSON data in any of a number of languages
 
 ## Machine Learning 
 
