@@ -79,6 +79,7 @@ Are you a Hackbright alumna or student?
 
 ## Data Visualization
 - [d3](https://d3js.org/) &mdash; JavaScript library for manipulating documents based on data
+- [Observable](https://observablehq.com)
 
 # 🍴 Tools &amp; Software
 
