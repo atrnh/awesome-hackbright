@@ -78,7 +78,9 @@ Are you a Hackbright alumna or student?
 - [SVG.js](https://svgjs.com/docs/2.7/) &mdash; SVG manipulation
 
 ## Data Visualization
+
 - [d3](https://d3js.org/) &mdash; JavaScript library for manipulating documents based on data
+- [Chart.js](https://www.chartjs.org/) &mdash; Simple yet flexible JavaScript charting for designers & developers
 - [Observable](https://observablehq.com/) &mdash; Like Jupyter notebook but by
   the creator of d3
 
