@@ -38,6 +38,7 @@ Are you a Hackbright alumna or student?
 ## Database
 
 - [SQLAlchemy](https://www.sqlalchemy.org/) &mdash; Vendor-agnostic database toolkit
+- [PostGIS](https://postgis.net/) &mdash; A spatial database extender for PostgreSQL 
 
 ## Clients &amp; API Wrappers
 
