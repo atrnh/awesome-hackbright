@@ -77,6 +77,7 @@ Are you a Hackbright alumna or student?
 
 - [ScrollMagic](http://scrollmagic.io/) &mdash; Scroll animations/interactions
 - [SVG.js](https://svgjs.com/docs/2.7/) &mdash; SVG manipulation
+- [Chart.js](https://www.chartjs.org/) &mdash; JavaScript charting
 
 ## Data Visualization
 - [d3](https://d3js.org/) &mdash; JavaScript library for manipulating documents based on data
