@@ -100,6 +100,7 @@ SQLAlchemy to work with spatial databases
 - [Neovim](https://neovim.io/) &mdash; Vim, but it uses Python as its scripting language
 - [Visual Studio Code](https://code.visualstudio.com/) &mdash; code editor redefined and optimized for building and debugging modern web and cloud applications
 - [Atom](https://atom.io/) &mdash; A free and open-source text and source code editor
+- -{}
 
 ## Command Line
 
