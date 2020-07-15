@@ -1,4 +1,4 @@
-# Awesome Hackbright
+# Awesome Hackbright File
 
 A list of libraries, tools, and other resources that Hackbrighters have used in
 their projects.
